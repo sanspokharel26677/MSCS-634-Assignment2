@@ -1,0 +1,11 @@
+ProductID,Category,UnitsSold,UnitPrice,Revenue,Region
+101,Electronics,20,399.99,7999.8,East
+102,Clothing,35,29.99,1049.65,West
+103,Clothing,12,49.99,599.88,West
+104,Electronics,5,499.99,2499.95,North
+105,Groceries,100,3.99,399.0,South
+106,Groceries,85,2.49,211.65,South
+107,Clothing,22,59.99,1319.78,East
+108,Electronics,10,299.99,2999.9,North
+109,Groceries,95,4.49,426.55,South
+110,Clothing,18,39.99,719.82,East
